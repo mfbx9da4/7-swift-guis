@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/davidadler/code/misc/hackingswift/asdf/7guis.xcodeproj">
    </FileRef>
 </Workspace>

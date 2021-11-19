@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DD842792274437A800C1AA64"
                BuildableName = "asdf.app"
-               BlueprintName = "asdf"
-               ReferencedContainer = "container:asdf.xcodeproj">
+               BlueprintName = "7guis"
+               ReferencedContainer = "container:7guis.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DD8427A2274437A900C1AA64"
                BuildableName = "asdfTests.xctest"
-               BlueprintName = "asdfTests"
-               ReferencedContainer = "container:asdf.xcodeproj">
+               BlueprintName = "7guisTests"
+               ReferencedContainer = "container:7guis.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -44,8 +44,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DD8427AC274437A900C1AA64"
                BuildableName = "asdfUITests.xctest"
-               BlueprintName = "asdfUITests"
-               ReferencedContainer = "container:asdf.xcodeproj">
+               BlueprintName = "7guisUITests"
+               ReferencedContainer = "container:7guis.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -66,8 +66,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DD842792274437A800C1AA64"
             BuildableName = "asdf.app"
-            BlueprintName = "asdf"
-            ReferencedContainer = "container:asdf.xcodeproj">
+            BlueprintName = "7guis"
+            ReferencedContainer = "container:7guis.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -83,8 +83,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DD842792274437A800C1AA64"
             BuildableName = "asdf.app"
-            BlueprintName = "asdf"
-            ReferencedContainer = "container:asdf.xcodeproj">
+            BlueprintName = "7guis"
+            ReferencedContainer = "container:7guis.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
